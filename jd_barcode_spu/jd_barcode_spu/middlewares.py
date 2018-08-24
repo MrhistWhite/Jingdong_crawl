@@ -26,10 +26,7 @@ class MyproxiesSpiderMiddleware(object):
 
     def get_ip(self):
         try:
-            text = requests.get(
-                'http://api.ip.data5u.com/dynamic/get.html?order=cab22ba3d2f7000f87783c3ab3499e97&random=true&sep=3').text
-            ip = ''.join(re.findall('(\d{2,3}.\d{2,3}.\d{2,3}.\d{2,3}:\d{4,5})', text))
-            return ip
+           """此处为获取代理IP地址代码"""
         except:
             return ''
 
