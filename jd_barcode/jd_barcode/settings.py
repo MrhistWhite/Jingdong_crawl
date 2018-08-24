@@ -101,12 +101,12 @@ RETRY_TIMES = 13
 REDIRECT_ENABLED = False
 DOWMLOAD_DELY=1
 
-
-MYSQL_HOST = 'rm-bp1w32i5xm39t6cxd.mysql.rds.aliyuncs.com'
-MYSQL_PORT = 3306
-MYSQL_DBNAME = 'spider_data'
-MYSQL_USER = 'marketing'
-MYSQL_PASSWD = 'c131dVQYFqNI2rum'
+"""自定义数据库信息"""
+# MYSQL_HOST = ''
+# MYSQL_PORT = 
+# MYSQL_DBNAME = ''
+# MYSQL_USER = ''
+# MYSQL_PASSWD = ''
 
 CAT=['https://list.jd.com/list.html?cat=1320,5019,5020',
  'https://list.jd.com/list.html?cat=1320,5019,5021',
