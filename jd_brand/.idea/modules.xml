@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jd_barcode/.idea/jd_barcode.iml" filepath="$PROJECT_DIR$/../jd_barcode/.idea/jd_barcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_barcode_spu/.idea/jd_barcode_spu.iml" filepath="$PROJECT_DIR$/../jd_barcode_spu/.idea/jd_barcode_spu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jd_brand.iml" filepath="$PROJECT_DIR$/.idea/jd_brand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_category/.idea/jd_category.iml" filepath="$PROJECT_DIR$/../jd_category/.idea/jd_category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_comment_tag_item/.idea/jd_comment_tag_item.iml" filepath="$PROJECT_DIR$/../jd_comment_tag_item/.idea/jd_comment_tag_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_comment_tag_total/.idea/jd_comment_tag_total.iml" filepath="$PROJECT_DIR$/../jd_comment_tag_total/.idea/jd_comment_tag_total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_comments_item/.idea/jd_comments_item.iml" filepath="$PROJECT_DIR$/../jd_comments_item/.idea/jd_comments_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_comments_total/.idea/jd_comments_total.iml" filepath="$PROJECT_DIR$/../jd_comments_total/.idea/jd_comments_total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_goods/.idea/jd_goods.iml" filepath="$PROJECT_DIR$/../jd_goods/.idea/jd_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_img/.idea/jd_img.iml" filepath="$PROJECT_DIR$/../jd_img/.idea/jd_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_sku/.idea/jd_sku.iml" filepath="$PROJECT_DIR$/../jd_sku/.idea/jd_sku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_spu/.idea/jd_spu.iml" filepath="$PROJECT_DIR$/../jd_spu/.idea/jd_spu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd_url/.idea/jd_url.iml" filepath="$PROJECT_DIR$/../jd_url/.idea/jd_url.iml" />
+    </modules>
+  </component>
+</project>

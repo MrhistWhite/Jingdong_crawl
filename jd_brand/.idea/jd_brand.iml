@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jd_url" />
+    <orderEntry type="module" module-name="jd_img" />
+    <orderEntry type="module" module-name="jd_category" />
+    <orderEntry type="module" module-name="jd_barcode" />
+    <orderEntry type="module" module-name="jd_barcode_spu" />
+    <orderEntry type="module" module-name="jd_comments_total" />
+    <orderEntry type="module" module-name="jd_comment_tag_total" />
+    <orderEntry type="module" module-name="jd_comment_tag_item" />
+    <orderEntry type="module" module-name="jd_sku" />
+    <orderEntry type="module" module-name="jd_spu" />
+    <orderEntry type="module" module-name="jd_comments_item" />
+    <orderEntry type="module" module-name="jd_goods" />
+    <orderEntry type="module" module-name="jd_goods" />
+  </component>
+</module>
